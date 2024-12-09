@@ -38,4 +38,4 @@ The **ADS DigiCore** project aims to drive digital transformation within the ADS
 
 >**OpenID:** Connect integration
 
-**Google Drive Files Table:** Stores metadata about files uploaded to Google Drive (e.g., file name, file path, associated user).
+**Google Drive:** Stores files uploaded to Google Drive (e.g., file name, file path, associated user).
