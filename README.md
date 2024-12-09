@@ -32,3 +32,8 @@ The **ADS DigiCore** project aims to drive digital transformation within the ADS
 **Caching:**
 
 >**Redis:** An in-memory key-value store for fast data access and caching, improving application performance.
+
+**Authentication & Security:**
+>**IdentityServer:** for OAuth 2.0
+
+>**OpenID:** Connect integration
