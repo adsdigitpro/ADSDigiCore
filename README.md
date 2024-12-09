@@ -28,3 +28,7 @@ The **ADS DigiCore** project aims to drive digital transformation within the ADS
 >**Microsoft Azure:** For cloud services, hosting, and scalable solutions.
 
 >**Azure DevOps:** For CI/CD pipelines, version control, and project management.
+
+**Caching:**
+
+>**Redis:** An in-memory key-value store for fast data access and caching, improving application performance.
